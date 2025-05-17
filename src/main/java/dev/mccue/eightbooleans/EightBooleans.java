@@ -108,7 +108,7 @@ public final class EightBooleans {
     @Override
     public String toString() {
         Function<Boolean, Integer> bitToInt = b -> b ? 1 : 0;
-        return "ByteBitSet["
+        return "EightBooleans["
                 + bitToInt.apply(getEighth())
                 + bitToInt.apply(getSeventh())
                 + bitToInt.apply(getSixth())
