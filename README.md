@@ -9,8 +9,6 @@ Answer for you. Eight booleans.
 ```java
 import module dev.mccue.eightbooleans;
 
-import java.io.IO;
-
 void main() {
     var bools = EightBooleans.allTrue();
 
