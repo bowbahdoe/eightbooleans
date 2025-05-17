@@ -28,6 +28,6 @@ void main() {
 <dependency>
     <groupId>dev.mccue</groupId>
     <artifactId>eightbooleans</artifactId>
-    <version>2025.05.17.1</version>
+    <version>2025.05.17</version>
 </dependency>
 ```
